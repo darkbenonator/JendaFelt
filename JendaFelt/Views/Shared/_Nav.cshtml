@@ -9,16 +9,18 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand topnav" href="#">Jenda Felt</a>
+            @Html.ActionLink("Jenda Felt","Index","Home",null,new {@class= "navbar-brand topnav" })
+            @*<a class="navbar-brand topnav" href="#">Jenda Felt</a>*@
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="#about">About</a>
+                    @Html.ActionLink("Our Services","Services")
+                    @*<a href="#about">Our Services</a>*@
                 </li>
                 <li>
-                    <a href="#services">Services</a>
+                    <a href="https://www.etsy.com/uk/shop/Jendafelt?ref=l2-shopheader-name">Shop</a>
                 </li>
                 <li>
                     <a href="#contact">Contact</a>

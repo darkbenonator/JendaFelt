@@ -10,12 +10,17 @@
 
   <ItemGroup>
     <Content Include="wwwroot\Fonts\Advertising Script Bold Trial.ttf" />
-    <Content Include="wwwroot\Font\advertising_script.zip" />
-    <Content Include="wwwroot\images\20815147_1187168241388865_1008000458_n.jpg" />
+    <Content Include="wwwroot\images\CustomDogs.jpg" />
     <Content Include="wwwroot\images\MouseHouse.jpg" />
+    <Content Include="wwwroot\images\OldSunset-min.jpg" />
+    <Content Include="wwwroot\images\OldSunset.jpg" />
+    <Content Include="wwwroot\images\Pug-min.jpg" />
+    <Content Include="wwwroot\images\Puppy-min.jpg" />
+    <Content Include="wwwroot\images\Rabbit-min.jpg" />
+    <Content Include="wwwroot\images\Seal-min.jpg" />
+    <Content Include="wwwroot\images\Terrier.jpg" />
     <Content Include="wwwroot\images\TurtleSea.jpg" />
     <Content Include="wwwroot\images\WolfInProgress.jpg" />
-    <Content Include="wwwroot\images\OldSunset.jpg" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
