@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="wwwroot\css\site.min.css" />
     <Content Include="wwwroot\Fonts\Advertising Script Bold Trial.ttf" />
     <Content Include="wwwroot\images\CustomDogs.jpg" />
     <Content Include="wwwroot\images\Flamingo.JPG" />
