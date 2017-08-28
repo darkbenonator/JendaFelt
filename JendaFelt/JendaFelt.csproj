@@ -11,10 +11,12 @@
   <ItemGroup>
     <Content Include="wwwroot\Fonts\Advertising Script Bold Trial.ttf" />
     <Content Include="wwwroot\images\CustomDogs.jpg" />
-    <Content Include="wwwroot\images\MouseHouse.jpg" />
-    <Content Include="wwwroot\images\OldSunset-min.jpg" />
+    <Content Include="wwwroot\images\Flamingo.JPG" />
+    <Content Include="wwwroot\images\Gorrila.JPG" />
+    <Content Include="wwwroot\images\Main.JPG" />
     <Content Include="wwwroot\images\OldSunset.jpg" />
-    <Content Include="wwwroot\images\Pug-min.jpg" />
+    <Content Include="wwwroot\images\Pug.jpg" />
+    <Content Include="wwwroot\images\pugBig.JPG" />
     <Content Include="wwwroot\images\Puppy-min.jpg" />
     <Content Include="wwwroot\images\Rabbit-min.jpg" />
     <Content Include="wwwroot\images\Seal-min.jpg" />

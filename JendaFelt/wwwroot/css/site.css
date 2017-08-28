@@ -41,8 +41,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url('../images/oldsunset.jpg')no-repeat center center;
-    background-size: cover;
+    background-image: url('../images/main.jpg');
+    background-size:cover;
 }
 
 .intro-message {
